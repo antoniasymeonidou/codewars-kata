@@ -1,6 +1,6 @@
 {
     "name": "codewars-katas",
-    "version": "",
+    "version": "1.0",
     "description": "Codewars exercises",
     "main": "src/index.js",
     "directories": {
@@ -8,7 +8,7 @@
       "src": "scr"
     },
     "scripts": {
-      "test": "npm test""
+      "test": "npm test"
     },
     "repository": {
       "type": "git",
