@@ -4,3 +4,6 @@ function countDevelopers(list) {
   return n.length;
 }
 ```
+```
+
+```
