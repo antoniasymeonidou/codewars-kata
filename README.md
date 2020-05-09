@@ -17,7 +17,7 @@ Codewars - Challenge myself with codewars exercises
 | 8 | Two to One| 
 | 9 | Multiply | 
 
-### Feel free to suggest your solutions
+### https://www.codewars.com/users/antoniasymeonidou
 
 
 ```
