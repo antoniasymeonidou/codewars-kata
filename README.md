@@ -5,6 +5,8 @@ Codewars - Challenge myself with codewars exercises
 
 ### SOLVED EXERCISES
 
+![logo](https://www.codewars.com/users/antoniasymeonidou/badges/large)
+
 |  |  | **DESCRIPTION** |   |
 |---|---|---|---|
 | 1 | :earth_africa:| Count the number of JavaScript developers coming from Europe |  [Solution](https://github.com/antoniasymeonidou/codewars-kata/blob/master/src/functionsSeries.js)| 
