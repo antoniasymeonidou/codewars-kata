@@ -5,19 +5,21 @@ Codewars - Challenge myself with codewars exercises
 
 ### SOLVED EXERCISES
 
-|  | **DESCRIPTION**  |
-|---|---|
-| 1 | Count the number of JavaScript developers coming from Europe  | 
-| 2 | Monkey Tennis | 
-| 3 | Number of People in the Bus | 
-| 4 | Exes and Ohs | 
-| 5 | Remove First and Last Character | 
-| 6 | Beginner - Lost Without a Map | 
-| 7 | Count the Monkeys! | 
-| 8 | Two to One| 
-| 9 | Multiply | 
+|  |  | **DESCRIPTION**  |
+|---|---|---|
+| 1 | :earth_africa:| Count the number of JavaScript developers coming from Europe  | 
+| 2 | :monkey_face:| Monkey Tennis | 
+| 3 | :bus:| Number of People in the Bus | 
+| 4 | :book:| Exes and Ohs | 
+| 5 | :pencil2:| Remove First and Last Character | 
+| 6 | :globe_with_meridians:| Beginner - Lost Without a Map | 
+| 7 | :monkey_face:| Count the Monkeys! | 
+| 8 | :heavy_plus_sign:| Two to One| 
+| 9 | :heavy_multiplication_x:| Multiply | 
 
-### https://www.codewars.com/users/antoniasymeonidou
+### FOLLOW ME :arrow_down:
+
+https://www.codewars.com/users/antoniasymeonidou
 
 
 
