@@ -20,7 +20,4 @@ Codewars - Challenge myself with codewars exercises
 ### https://www.codewars.com/users/antoniasymeonidou
 
 
-```
-
-```
 
