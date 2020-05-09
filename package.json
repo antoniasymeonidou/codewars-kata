@@ -1,0 +1,31 @@
+{
+    "name": "codewars-katas",
+    "version": "",
+    "description": "Codewars exercises",
+    "main": "src/index.js",
+    "directories": {
+      "test": "test",
+      "src": "scr"
+    },
+    "scripts": {
+      "test": "npm test""
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/antoniasymeonidou/codewars-kata"
+    },
+    "keywords": [
+      "\"JavaScript\""
+      "\"Codewars\""
+      "\"Code\""
+      "\"Solution\""
+      "\"Exercises\""
+      "\"Github\""
+    ],
+    "author": "Antonia Symeonidou",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/antoniasymeonidou/codewars-kata"
+    },
+    "homepage": "https://github.com/antoniasymeonidou/codewars-kata/blob/master/README.md"
+  }
