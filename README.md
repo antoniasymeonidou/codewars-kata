@@ -1,4 +1,4 @@
-## CODEWARS-KATA
+## CODEWARS-KATA :muscle:
 Codewars - Challenge myself with codewars exercises
 
 ![challenge logo](https://docs.google.com/drawings/d/e/2PACX-1vTQ0JQZgNzghpWOi_lTRZaiyUJlTlBV1_ArYclpoJesiXenWwniXBfsDllYAbjvr_ky9JRYTvWAa7A5/pub?w=300&h=300) 
